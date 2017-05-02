@@ -5,7 +5,7 @@ echo 'hello world2';
 
 function main()
 {
-    return "hello world";
+    return "SImm world";
 }
 
 function run()
