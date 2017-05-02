@@ -5,10 +5,10 @@ echo 'hello world2';
 
 function main()
 {
-    return "SImm world";
+    return "Simi world";
 }
 
 function run()
 {
-    return "run";
+    return "run this code";
 }
