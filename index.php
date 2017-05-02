@@ -10,5 +10,5 @@ function main()
 
 function run()
 {
-    return "run";
+    return "run this code";
 }
